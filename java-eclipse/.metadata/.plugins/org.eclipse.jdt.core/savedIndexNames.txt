@@ -1,2 +1,0 @@
-INDEX VERSION 1.130+/home/abdurrazzak/java-eclipse/.metadata/.plugins/org.eclipse.jdt.core
-2999920737.index
